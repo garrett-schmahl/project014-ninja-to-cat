@@ -1,0 +1,13 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+img{
+  margin: 5px;
+}
+#container{
+  display:flex;
+  flex-direction:column;
+  margin: 5px;
+  width:90%;
+}
