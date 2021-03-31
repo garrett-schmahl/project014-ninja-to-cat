@@ -10,3 +10,5 @@ $("document").ready(function(){
     $(this).attr("src", imageFilePath)
   })
 })
+
+//better way to do it would be to give the img tag an alternate source and swap that in.
